@@ -1,4 +1,4 @@
-package com.johnbwhitejr.springdemo.mvc.controller;
+package com.johnbwhitejr.springdemo.mvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
